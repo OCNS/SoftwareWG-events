@@ -16,7 +16,9 @@ The tutorial is aimed not only at novices who have rarely or never used a comman
 Prerequisites
 ~~~~~~~~~~~~~
 A working copy of bash; participants on Linux and MacOS are all set.
-Since Microsoft has recently released WSL2 to the public, participants on Windows are encouraged to `enable WSL2 <https://docs.microsoft.com/en-us/windows/wsl/install-win10#install-the-windows-subsystem-for-linux>`_ and `install Ubuntu <https://www.microsoft.com/en-gb/p/ubuntu/9nblggh4msv6>`_. Somewhat ironically, this requires at least one use of a command line terminal (though not bash); on the upside, the Linux-on-Windows experience is both very smooth and a very safe first step into Linux territory.
+Participants on Windows have several options to get hold of a bash environment without leaving familiar territory:
+* Install `Git for Windows <https://gitforwindows.org/>`_, which includes a Git Bash emulation with most of the standard tools you might expect in a Linux/Unix environment, plus of course Git.
+* Alternatively, `enable WSL2 <https://docs.microsoft.com/en-us/windows/wsl/install-win10#install-the-windows-subsystem-for-linux>`_ and `install Ubuntu <https://www.microsoft.com/en-gb/p/ubuntu/9nblggh4msv6>`_ as a virtual machine hosted by Windows. Somewhat ironically, this requires at least one use of a command line terminal (though not bash); on the upside, the Linux-on-Windows experience is a smooth and safe first step into Linux territory.
 
 Topics
 ~~~~~~
@@ -25,6 +27,6 @@ Topics
 * Getting around: Navigating within and beyond your computer (~, pwd, cd, pushd/popd, ssh)
 * Seeing what's there: ls, globbing, and strategies for naming your files
 * File system manipulations (mv, cp/scp, rm, mkdir, rmdir, ln -s, touch)
-* Looking into files (cat, head & tail, more or less, grep, diff)
+* Looking into files (cat, head & tail, more or less, grep, diff, sort)
 * Putting things together: Piping and redirection
 * What to do when stuck: Man, I need some help here.
