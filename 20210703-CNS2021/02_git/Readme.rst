@@ -1,7 +1,7 @@
 Effective use of Git
 ---------------------
 
-- Instructor(s): @sanjayankur31
+- Instructor(s): Ankur Sinha (@sanjayankur31)
 
 Abstract
 ~~~~~~~~~
