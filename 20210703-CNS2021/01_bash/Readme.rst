@@ -27,6 +27,7 @@ Topics
 * Getting around: Navigating within and beyond your computer (``~``, ``pwd``, ``cd``, ``pushd``/``popd``, ``ssh``)
 * Seeing what's there: ``ls``, globbing, and strategies for naming your files
 * File system manipulations (``mv``, ``cp``/``scp``, ``rm``, ``mkdir``, ``rmdir``, ``ln -s``, ``touch``)
-* Looking into files (``cat``, ``head`` & ``tail``, ``more`` or ``less``, ``grep``, ``diff``, ``sort``)
+* Looking into files (``cat``, ``head`` & ``tail``, ``more`` or ``less``, ``grep``, ``diff``)
+* Text manipulation (``sed``, ``sort``, ``uniq``, ``cut``, ``column``)
 * Putting things together: Piping and redirection
-* What to do when stuck: ``man``, I need some help here.
+* What to do when stuck: ``man``, I need some ``help`` here ``apropos`` of this command...
