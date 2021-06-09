@@ -33,10 +33,12 @@ Topics
 ~~~~~~
 
 - a brief introduction to Git
+
   - references, options
   - where to get help
 
 - using Git on a daily basis:
+
   - creating a new repository (``init``)
   - adding files and staging files (``add, add -i``)
   - ignoring files (``.gitingore``)
@@ -48,12 +50,14 @@ Topics
   - creating an archive (``archive``)
 
 - using Git for collaborative development
+
   - remotes, forks (``remote``)
   - pushing and pulling (``push, pull``)
   - pull requests and merging (``merge``)
   - merge conflicts and resolving them
 
 - slightly advanced git
+
   - Git worktrees (``worktree``)
   - interactive rebasing (``rebase -i``)
   - cherry-picking (``cherry-pick``)
