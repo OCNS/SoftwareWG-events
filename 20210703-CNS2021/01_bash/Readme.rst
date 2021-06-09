@@ -1,7 +1,7 @@
 Effective use of Bash
 ---------------------
 
-- Instructor: @kernfel
+- Instructor: Felix B. Kern (@kernfel)
 
 Abstract
 ~~~~~~~~
