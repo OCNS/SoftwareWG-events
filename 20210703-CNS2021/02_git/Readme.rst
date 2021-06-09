@@ -39,6 +39,7 @@ Topics
 - using Git on a daily basis:
   - creating a new repository (``init``)
   - adding files and staging files (``add, add -i``)
+  - ignoring files (``.gitingore``)
   - stashing (``stash``)
   - viewing changes (``diff, log``)
   - committing files (``commit``)
