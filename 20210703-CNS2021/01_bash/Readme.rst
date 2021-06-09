@@ -16,9 +16,11 @@ The tutorial is aimed not only at novices who have rarely or never used a comman
 Prerequisites
 ~~~~~~~~~~~~~
 A working copy of bash; participants on Linux and MacOS are all set.
+
 Participants on Windows have several options to get hold of a bash environment without leaving familiar territory:
+
 * Install `Git for Windows <https://gitforwindows.org/>`_, which includes a Git Bash emulation with most of the standard tools you might expect in a Linux/Unix environment, plus of course Git.
-* Alternatively, `enable WSL2 <https://docs.microsoft.com/en-us/windows/wsl/install-win10#install-the-windows-subsystem-for-linux>`_ and `install Ubuntu <https://www.microsoft.com/en-gb/p/ubuntu/9nblggh4msv6>`_ as a virtual machine hosted by Windows. Somewhat ironically, this requires at least one use of a command line terminal (though not bash); on the upside, the Linux-on-Windows experience is a smooth and safe first step into Linux territory.
+* Alternatively, `enable WSL2 <https://docs.microsoft.com/en-us/windows/wsl/install-win10#install-the-windows-subsystem-for-linux>`_ and `install Ubuntu <https://www.microsoft.com/en-gb/p/ubuntu/9nblggh4msv6>`_ as a virtual machine hosted by Windows. Somewhat ironically, this requires at least one use of a command line terminal (though not bash); on the upside, the Linux-on-Windows experience can be a smooth and safe first step into Linux territory.
 
 Topics
 ~~~~~~
