@@ -22,10 +22,10 @@ We will use GitHub as our Git remote for forking and pull/merge requests.
 So a GitHub account will also be required.
 
 - Linux users can generally install Git from their default package manager:
-  Fedora: `sudo dnf install git`
-  Ubuntu: `sudo apt-get install git`
+  Fedora: ``sudo dnf install git``
+  Ubuntu: ``sudo apt-get install git``
 - Windows users should use `Git for Windows <https://gitforwindows.org/>`__.
-- MacOS users should use `brew` to install `git`: `brew install git`.
+- MacOS users should use ``brew`` to install ``git``: ``brew install git``.
 
 More information on installing Git can be found on the project website: https://git-scm.com/
 
@@ -37,23 +37,23 @@ Topics
   - where to get help
 
 - using Git on a daily basis:
-  - creating a new repository (`init`)
-  - adding files and staging files (`add, add -i`)
-  - stashing (`stash`)
-  - viewing changes (`diff, log`)
-  - committing files (`commit`)
-  - using branches to organise the development workflow (`branch, checkout`)
-  - tagging (`tag`)
-  - creating an archive (`archive`)
+  - creating a new repository (``init``)
+  - adding files and staging files (``add, add -i``)
+  - stashing (``stash``)
+  - viewing changes (``diff, log``)
+  - committing files (``commit``)
+  - using branches to organise the development workflow (``branch, checkout``)
+  - tagging (``tag``)
+  - creating an archive (``archive``)
 
 - using Git for collaborative development
-  - remotes, forks (`remote`)
-  - pushing and pulling (`push, pull`)
-  - pull requests and merging (`merge`)
+  - remotes, forks (``remote``)
+  - pushing and pulling (``push, pull``)
+  - pull requests and merging (``merge``)
   - merge conflicts and resolving them
 
 - slightly advanced git
-  - Git worktrees (`worktree`)
-  - interactive rebasing (`rebase -i`)
-  - cherry-picking (`cherry-pick`)
-  - debugging with git-bisect (`bisect`)
+  - Git worktrees (``worktree``)
+  - interactive rebasing (``rebase -i``)
+  - cherry-picking (``cherry-pick``)
+  - debugging with git-bisect (``bisect``)
