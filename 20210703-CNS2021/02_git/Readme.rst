@@ -22,8 +22,10 @@ We will use GitHub as our Git remote for forking and pull/merge requests.
 So a GitHub account will also be required.
 
 - Linux users can generally install Git from their default package manager:
-  Fedora: ``sudo dnf install git``
-  Ubuntu: ``sudo apt-get install git``
+
+  - Fedora: ``sudo dnf install git``
+  - Ubuntu: ``sudo apt-get install git``
+
 - Windows users should use `Git for Windows <https://gitforwindows.org/>`__.
 - MacOS users should use ``brew`` to install ``git``: ``brew install git``.
 
